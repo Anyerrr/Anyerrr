@@ -6,7 +6,7 @@ I'm a Computer Science Engineer from **UPC** currently optimizing backend system
 
 - 🌍 **Portfolio:** [anyer-portfolio.vercel.app](https://portfolio-website-indol-psi.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/anyer-moreno-alcaraz](https://linkedin.com/in/anyer-moreno-alcaraz-55153627a)
-- 🚀 **Tech Stack:** C#, .NET, , Python, SQL Server, React.
+- 🚀 **Tech Stack:** C#, .NET, C++, Java, Python, SQL Server, React.
 
 ---
 *I solve complex problems through elegant code.*
